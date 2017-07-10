@@ -1,0 +1,17 @@
+a des poils
+!>
+est un mammifere
+!%
+est un mammifere
+!>
+ne pond pas d'oeufs
+!%
+ne pond pas d'oeufs
+!>
+n'est pas un oiseau
+!%
+n'est pas un oiseau
+!>
+ne pond pas d'oeufs
+!!
+a des poils
